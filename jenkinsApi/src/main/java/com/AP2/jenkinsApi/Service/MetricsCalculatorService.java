@@ -62,7 +62,7 @@ public class MetricsCalculatorService {
 
 
 
-    // 3. Change Failure Rate
+   
     public double calculateChangeFailureRate(String jobName) throws SQLException {
         String query = "SELECT status FROM deployments WHERE job_name = ?";
         try (Connection connection = databaseClient.getConnection();
