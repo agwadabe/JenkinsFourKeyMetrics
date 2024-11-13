@@ -1,0 +1,4 @@
+com/AP2/jenkinsApi/Service/MetricsCalculatorServiceTest.class
+com/AP2/jenkinsApi/Controller/JenkinsClientControllerTest.class
+com/AP2/jenkinsApi/JenkinsApiApplicationTests.class
+com/AP2/jenkinsApi/Controller/DatabaseClientControllerTest.class

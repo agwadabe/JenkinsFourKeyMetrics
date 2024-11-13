@@ -1,0 +1,5 @@
+com/AP2/jenkinsApi/Controller/JenkinsClientController.class
+com/AP2/jenkinsApi/Service/MetricsCalculatorService.class
+com/AP2/jenkinsApi/AppProperties.class
+com/AP2/jenkinsApi/JenkinsApiApplication.class
+com/AP2/jenkinsApi/Controller/DatabaseClientController.class
